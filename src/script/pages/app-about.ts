@@ -18,6 +18,7 @@ export class AppAbout extends LitElement {
       <div>
         <h2>About Page</h2>
       </div>
+      <p>Lorem ipsum</p>
     `;
   }
 }
